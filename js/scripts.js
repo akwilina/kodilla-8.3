@@ -3,3 +3,7 @@ var name = prompt('Wpisz swoje imię');
 console.log("Witaj, " + name);
 //ocomment 1
 //comment 2
+/*multi
+line
+comment
+ */
